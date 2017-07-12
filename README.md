@@ -20,13 +20,9 @@ Project contains:
 
 ## Renaming and coding
 
-To change name of service in list of Windows services edit ProjectInstaller.Designer.cs file.
-
+To change name of service edit ProjectInstaller.Designer.cs file.
 For full renaming change in each file 'WinService' for your own name.
-
 This service is just a starting project for coding.
-
 Implement custom logic Process/ServiceProcess.cs file.
-
 Add own classes to work with database, xml, queue server and so on. There only logging support. 
 
