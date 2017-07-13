@@ -1,12 +1,12 @@
 # Windows service on .NET
 
-Starting project for windows service with some C# code and installation script
+Starting project for windows service with some C# code and installation script.
 
 Project contains:
 
-- config file
-- log4net support
-- core logic for service execution (Service1.cs)
+- Config file
+- Log4net support
+- Core logic for service execution (Service1.cs)
 
 ## Compilation, installation, uninstallation:
 
