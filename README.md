@@ -18,15 +18,17 @@ Project contains:
 - See log in bin/Debug/log
 - In bin/Debug folder run _unintall.bat
 
-## Renaming and coding
+## Renaming
 
 To change name of service edit ProjectInstaller.Designer.cs file.
 
 For full renaming change in each file 'WinService' for your own name.
 
+## What next?
+
 This service is just a starting project for coding.
 
 Implement custom logic Process/ServiceProcess.cs file.
 
-Add own classes to work with database, xml, queue server and so on. There only logging support. 
+Add own classes to work with database, xml, queue server and so on.
 
