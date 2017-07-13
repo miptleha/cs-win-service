@@ -28,7 +28,7 @@ For full renaming change in each file 'WinService' for your own name.
 
 This service is just a starting project for coding.
 
-Implement custom logic Process/ServiceProcess.cs file.
+Implement custom logic in Process/ServiceProcess.cs file.
 
 Add own classes to work with database, xml, queue server and so on.
 
